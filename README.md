@@ -1,39 +1,21 @@
 # ClassyCalc
 
-A modern, object-oriented calculator built in Java using Swing.  
-This project showcases clean GUI design, event-driven programming, and core OOP concepts.
+ClassyCalc is a graphical calculator built in Java using Swing. Designed to demonstrate object-oriented programming (OOP) in action, it features a clean interface, real-time display updates, and support for all basic arithmetic operations.
 
 ---
 
 ## ✨ Features
 
-- Four basic operations: ➕ ➖ ✖️ ➗
-- AC (All Clear), Backspace, Percentage, Negate (+/-)
-- Decimal support with clean formatting
-- Stylized user interface using custom colors and fonts
-- Responsive layout with real-time calculation logic
+- ✅ Basic operations: Addition, Subtraction, Multiplication, Division
+- 🔁 AC (Clear), Backspace, Percentage, +/- toggle
+- 💡 Decimal point support with clean formatting
+- 🎨 Styled with custom fonts, colors, and layout using Swing
+- 📱 Responsive GUI, neatly arranged via Grid and BorderLayout
 
 ---
 
-## 🧠 Concepts Demonstrated
+## 🔧 How to Run
 
-- **Encapsulation** – all logic and state managed inside the `Calculator` class
-- **Abstraction** – organized button behaviors and state transitions
-- **Event Handling** – interactive GUI via Java `ActionListener`
-- **UI Customization** – font, color, and layout styling with Swing
-
----
-
-## 🛠️ Built With
-
-- Java
-- Swing (GUI)
-- IntelliJ IDEA (but works in any Java IDE)
-
----
-
-## 🚀 How to Run
-
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ClassyCalc.git
