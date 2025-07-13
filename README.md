@@ -1,3 +1,8 @@
+## 🖼️ Preview
+
+![App Screenshot](https://raw.githubusercontent.com/yourusername/CalcApp-Java/main/screenshot.png)
+
+
 # ClassyCalc
 
 ClassyCalc is a graphical calculator built in Java using Swing. Designed to demonstrate object-oriented programming (OOP) in action, it features a clean interface, real-time display updates, and support for all basic arithmetic operations.
