@@ -19,3 +19,9 @@ ClassyCalc is a graphical calculator built in Java using Swing. Designed to demo
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ClassyCalc.git
+
+## 🖼️ Preview
+
+Here's a screenshot of the calculator in action:
+
+![ClassyCalc Screenshot](https://raw.githubusercontent.com/JeremieAduna/CalcApp-Java/refs/heads/main/ClassyCalc.jpg)
